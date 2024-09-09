@@ -95,4 +95,8 @@ During the development of this slot machine game, I gained valuable experience i
 - **Dictionaries:** Used for storing symbol counts and values. Example: `symbol_count = {"Cherry": 2, "Bell": 4, ...}`.
 - **Lists:** Used for storing columns and rows of symbols. Example: `columns = []`.
 
-## Example Output
+## Slot Machine Code Output
+
+![Example Output 1](IMAGE_URL_1)
+
+![Example Output 2](IMAGE_URL_2)
