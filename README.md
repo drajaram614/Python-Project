@@ -97,6 +97,6 @@ During the development of this slot machine game, I gained valuable experience i
 
 ## Slot Machine Code Output
 
-![Example Output 1](images//output_1.png)
+![Example Output 1](Python-Slot-Machine/images/output_1.png)
 
-![Example Output 2](images/output_2.png)
+![Example Output 2](Python-Slot-Machine/images/output_2.png)
